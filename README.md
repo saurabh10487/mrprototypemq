@@ -1,8 +1,9 @@
 MR Prototype with Unreal Engine 5.5.4 & Meta Quest 3
+Watch tutorial: https://youtu.be/VRzDo36uARs
 
 This project demonstrates how to build a simple Mixed Reality (MR) prototype using Unreal Engine 5.5.4 and Meta Quest 3.
 It combines passthrough, hand tracking, and physics-based interactions using the Meta XR Interaction SDK (v78).
-Watch tutorial: https://youtu.be/VRzDo36uARs
+
 https://github.com/user-attachments/assets/bc4ef1ce-d935-4f2b-9a7a-0125a507d03a
 
 
