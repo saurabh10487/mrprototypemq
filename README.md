@@ -1,4 +1,4 @@
-MR Prototype with Unreal Engine 5.5.4 & Meta Quest 3
+MR Prototype with Unreal Engine 5.5.4 & Meta Quest 3.
 Watch tutorial: https://youtu.be/VRzDo36uARs
 
 This project demonstrates how to build a simple Mixed Reality (MR) prototype using Unreal Engine 5.5.4 and Meta Quest 3.
